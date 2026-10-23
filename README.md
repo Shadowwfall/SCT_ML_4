@@ -131,7 +131,7 @@ SCT_ML_4/
 Clone this repository
 
 ```bash
-git clone https://github.com/samyak9403-cell/SCT_ML_4.git
+git clone https://github.com/shadowwfall/SCT_ML_4.git
 ```
 
 Navigate to the project
@@ -179,9 +179,7 @@ Through this project, I learned:
 
 # 👨‍💻 Author
 
-**Samyak Jain**
-
-- GitHub: https://github.com/samyak9403-cell
+**Prakhar Kaushik**
 
 ---
 
@@ -190,7 +188,3 @@ Through this project, I learned:
 This project was completed as part of the **SkillCraft Technology Machine Learning Internship – Task 4**.
 
 ---
-
-# ⭐ Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub!
